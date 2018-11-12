@@ -57,7 +57,7 @@ public class TransactionsController {
 
     private static final byte[] DATA = Hex.decode("95568a4b00000001"); //'bet' function signature and side to bet on (1)
 
-    private static final BigInteger GAS_PRICE = DefaultGasProvider.GAS_PRICE; //Set ZERO for quorum
+    private static final BigInteger GAS_PRICE = BigInteger.ZERO;
     private static final BigInteger GAS_LIMIT = DefaultGasProvider.GAS_LIMIT;
 
     private static final boolean DO_DELAY = false;

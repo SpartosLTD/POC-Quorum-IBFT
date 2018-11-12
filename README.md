@@ -1,6 +1,6 @@
 # Project purpose
 
-This project was created to measure performance (TPS - transactions per second) in Ethereum network with PoA (Proof-of-Authority) consensus algorithm. Specifically, we were interested in bet placement and settlement transactions throughput from Spartos platform design standpoint.  
+This project was created to measure performance (TPS - transactions per second) in Quorum network with IBFT (Istanbul Byzantine Fault-Tolerance) consensus algorithm. Specifically, we were interested in bet placement and settlement transactions throughput from Spartos platform design standpoint.  
 
 # Сontents
 
